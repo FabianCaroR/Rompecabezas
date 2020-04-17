@@ -1,0 +1,12 @@
+
+span{color:black;}
+
+div#content{margin-top:10px;}
+
+div#conf{padding-bottom:10px;}
+
+table{border:2px solid black;}
+
+td.pieza{background:url(imagen.png);}
+
+div#titulo{color: black; font-size:30px; font-weight:bold;}
